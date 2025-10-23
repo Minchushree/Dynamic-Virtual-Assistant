@@ -15,7 +15,7 @@ Telling jokes and random facts
 
  Features
 
-  Perform actions hands-free using speech recognition   
+ Perform actions hands-free using speech recognition   
  Uses text-to-speech for interactive responses   
  Opens popular sites like Google, YouTube, Instagram, etc.   
  Add, view, and delete notes using voice commands (stored in localStorage)   
