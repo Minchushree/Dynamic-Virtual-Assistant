@@ -42,12 +42,12 @@ Technology	Purpose
 
  Example Voice Commands
 
-🗣 “Open YouTube”
-🗣 “What is the weather in Mysuru?”
-🗣 “Take a note: Complete report submission”
-🗣 “Show my schedule”
-🗣 “Tell me a joke”
-🗣 “What’s the time?”
+ “Open YouTube”   
+ “What is the weather in Mysuru?”   
+ “Take a note: Complete report submission”  
+ “Show my schedule”   
+ “Tell me a joke”   
+ “What’s the time?”
 
  Screenshots
 
