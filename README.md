@@ -51,7 +51,7 @@ Technology	Purpose
 
  Screenshots
 
-
+https://github.com/Minchushree/Dynamic-Virtual-Assistant/blob/main/webpage.png
 
 
  Learning Outcomes
