@@ -25,11 +25,11 @@ Telling jokes and random facts
 
 Technology	Purpose
 
-1.HTML5	Structure of the web interface
-2.CSS3	Styling and responsiveness
-3.JavaScript (Vanilla)	Logic, event handling, and AI integration
-4.Web Speech API	Speech recognition and text-to-speech synthesis
-5.OpenWeatherMap API	Real-time weather updates
+1.HTML5	Structure of the web interface   
+2.CSS3	Styling and responsiveness   
+3.JavaScript (Vanilla)	Logic, event handling, and AI integration   
+4.Web Speech API	Speech recognition and text-to-speech synthesis   
+5.OpenWeatherMap API	Real-time weather updates   
 6.Local Storage API	Saving notes and schedule data locally
 
  How It Works
