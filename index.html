@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My virtual assistant</title>
+  <link rel="shortcut icon" href="logo2.jpg" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main-content">
+        <img src="logo2.jpg" alt="logo" id="logo">
+        <h1>Hello!! I'm <span id="name">Cyrus</span></h1>
+        <img src="voice.gif" alt="voice" id="voice">
+        <div class="controls">
+            <button id="btn"><img src="mic1.svg" alt="mic"><span id="content"> </span> </button>
+        </div>
+    </div>
+
+    <button id="toggleScheduleBtn" title="Toggle Schedule">🗓️ Schedule</button>
+
+    <div id="schedule-panel">
+        <div id="weather"></div>
+        <ul id="noteList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
